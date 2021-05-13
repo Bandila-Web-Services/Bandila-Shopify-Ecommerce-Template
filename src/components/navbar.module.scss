@@ -1,0 +1,14 @@
+.list {
+    background: #333;
+    color: #fff;
+    list-style: none;
+    display: flex;
+    .listItem{
+        font-size: 22px;
+        margin-right: 50px;
+    }
+    .text{
+        color: #fff;
+        text-decoration: none;
+    }
+}
