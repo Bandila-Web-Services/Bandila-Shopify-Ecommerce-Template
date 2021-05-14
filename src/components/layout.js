@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Navbar from './navbar';
+import 'semantic-ui-css/semantic.min.css'
 
 const Layout = (props) => {
     return(
